@@ -1,7 +1,7 @@
 {
     "type": "esp32-fota-https",
-    "version": 6,
+    "version": 7,
     "host": "raw.githubusercontent.com",
     "port": 443,
-    "bin": "/mohitreddyk/MyFiles/main/esp32ota/otaBlink_v6.bin"
+    "bin": "/mohitreddyk/MyFiles/main/esp32ota/otaBlink_v7.bin"
 }
