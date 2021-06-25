@@ -1,0 +1,7 @@
+{
+    "type": "esp32-fota-https",
+    "version": 1,
+    "host": "raw.githubusercontent.com",
+    "port": 443,
+    "bin": "/mohitreddyk/MyFiles/main/esp32ota/otaFtp_v2.bin"
+}
