@@ -1,7 +1,7 @@
 {
     "type": "esp32-fota-https",
-    "version": 5,
+    "version": 6,
     "host": "raw.githubusercontent.com",
     "port": 443,
-    "bin": "/mohitreddyk/MyFiles/main/esp32ota/mton_v5.bin"
+    "bin": "/mohitreddyk/MyFiles/main/esp32ota/mton_v6.bin"
 }
